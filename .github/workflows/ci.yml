@@ -58,3 +58,4 @@ jobs:
         with:
           name: IINA-arm64
           path: ./iina.tar.xz
+
